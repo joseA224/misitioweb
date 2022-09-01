@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(24, 24,24,.9);
+    background-color:rgba(239, 246, 247, 0.843);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,5 +9,5 @@ body {
 nav {
     font-family: "Bebas Neue" , cursive;
     font-size: 2em;
-    color: rgb(239, 246, 247);
+    color: rgba(14, 15, 15, 0.928);
 } 
