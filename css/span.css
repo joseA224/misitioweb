@@ -1,7 +1,20 @@
-.name-styles {
-    font-size: 144em;
+.letter-style {
+    font-size: 3em;
     color: black
 }
-.name-styles {
-    color: rgb(64, 64, 64,.8)
+.name-style {
+    color: red
 }
+h2.name-style{
+    color: blue;
+}
+/*ejemplo de clase no atada*/
+.text-style {
+    color: darkcyan;
+}
+
+/*ejemplo de estilo utilizando un id*/
+#textstyle {
+    color: violet;
+}
+
