@@ -14,6 +14,7 @@
     margin: 6em 2em 20em 1em;
     background-color: rgba(0, 247, 255, 0.694);
     margin-bottom: 10px;
+    text-align: right;
 }
 .box-2 {
     margin-right: 50px;
@@ -22,6 +23,7 @@
     margin: 6em 2em 20em 1em;
     background-color: rgba(187, 0, 255, 0.748);
     margin-bottom: 10px;
+    text-align: left;
 }
 .box-3 {
     margin-right: 50px;
@@ -30,6 +32,7 @@
     margin: 6em 2em 20em 1em;
     background-color: rgba(0, 255, 68, 0.746);
     margin-bottom: 10px;
+    text-align: center;
 }
 .box-4 {
     margin-right: 50px;
@@ -38,6 +41,7 @@
     margin: 6em 2em 20em 1em;
     background-color: rgba(255, 0, 204, 0.846);
     margin-bottom: 10px;
+    text-align: justify;
 }
 .box-5{
     margin-right: 50px;
