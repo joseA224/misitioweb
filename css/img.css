@@ -1,6 +1,4 @@
-body {
-    background-color: blueviolet;
-}
+
 .img-Montañas {
     width: 100%;
 }
@@ -9,4 +7,7 @@ body {
 }
 .img-lanscape {
     width: 100%;
+}
+h1, h2 {
+    text-align: center;
 }
