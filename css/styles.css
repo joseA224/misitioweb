@@ -1,13 +1,8 @@
-body {
-    background-color:rgba(239, 246, 247, 0.843);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
+ h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
-nav {
-    font-family: "Bebas Neue" , cursive;
-    font-size: 2em;
-    color: rgba(14, 15, 15, 0.928);
-} 
+ }
+
+ body {
+    background-color: beige;
+ }
