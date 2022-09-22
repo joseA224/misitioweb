@@ -15,8 +15,8 @@ body {
 .general {
     margin: 25px;
     display: flex;
-    width: 100%;
-    right: 100%;
+    width: 90%;
+    right: 90%;
     background-color: rgba(229, 229, 229, 0.69);
     border: 5px solid;
     margin-right: 25px;
