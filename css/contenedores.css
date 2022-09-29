@@ -24,9 +24,9 @@
     display: flex;
     width: 260px;
     height: 260px;
-    background-color: rgb(28, 52, 151);
+    background-color: rgba(28, 53, 151, 0.876);
     margin-left: 615px;
-    box-shadow: 40px 20px 15px rgba(0, 179, 255, 0.835) ;
+    box-shadow: 40px 20px 15px rgba(0, 34, 255, 0.863) ;
 }
 
 .contenedor3 {
@@ -34,9 +34,9 @@
     display: flex;
     width: 260px;
     height: 260px;
-    background-color: rgb(28, 52, 151);
+    background-color: rgba(28, 53, 151, 0.854);
     margin-left: 50px;
-    box-shadow: 40px 20px 15px rgba(0, 179, 255, 0.835) ;
+    box-shadow: 40px 20px 15px rgba(0, 34, 255, 0.863) ;
 }
 
 .TERCEARIO {
@@ -48,9 +48,9 @@
     display: flex;
     width: 260px;
     height: 260px;
-    background-color: rgb(255, 0, 0);
+    background-color: rgba(144, 0, 255, 0.708);
     margin-left: 450px;
-    box-shadow: 40px 20px 15px rgba(0, 179, 255, 0.835) ;
+    box-shadow: 40px 20px 15px rgba(144, 0, 255, 0.779) ;
 }
 
 .contenedor5 {
@@ -58,9 +58,9 @@
     display: flex;
     width: 260px;
     height: 260px;
-    background-color: rgba(255, 0, 0, 0.678);
+    background-color: rgba(144, 0, 255, 0.718);
     margin-left: 50px;
-    box-shadow: 40px 20px 15px rgb(255, 0, 0) ;
+    box-shadow: 40px 20px 15px rgb(144, 0, 255, 0.779) ;
 }
 
 .contenedor6 {
@@ -68,7 +68,7 @@
     display: flex;
     width: 260px;
     height: 260px;
-    background-color: rgba(255, 0, 0, 0.678);
+    background-color: rgba(144, 0, 255, 0.678);
     margin-left: 50px;
-    box-shadow: 40px 20px 15px rgb(255, 0, 0);
+    box-shadow: 40px 20px 15px rgb(144, 0, 255, 0.779);
 }
