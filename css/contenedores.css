@@ -12,12 +12,18 @@
     height: 260px;
     justify-content: center;
     background-color: rgba(0, 179, 255, 0.658);
-    margin-left: 780px;
     box-shadow: 40px 20px 15px rgba(0, 179, 255, 0.835) ;
+}
+
+.PRIMARIO {
+    display: flex;
+    justify-content: center;
 }
 
 .SEGUNDARIO {
     display: flex;
+    justify-content: center;
+
 }
 
 .contenedor2 {
@@ -27,7 +33,6 @@
     height: 260px;
     justify-content: center;
     background-color: rgba(28, 53, 151, 0.876);
-    margin-left: 615px;
     box-shadow: 40px 20px 15px rgba(0, 34, 255, 0.863) ;
 }
 
@@ -38,12 +43,12 @@
     height: 260px;
     justify-content: center;
     background-color: rgba(28, 53, 151, 0.854);
-    margin-left: 50px;
     box-shadow: 40px 20px 15px rgba(0, 34, 255, 0.863) ;
 }
 
 .TERCEARIO {
     display: flex;
+    justify-content: center;
 }
 
 .contenedor4 {
@@ -53,7 +58,6 @@
     height: 260px;
     justify-content: center;
     background-color: rgba(144, 0, 255, 0.708);
-    margin-left: 450px;
     box-shadow: 40px 20px 15px rgba(144, 0, 255, 0.779) ;
 }
 
@@ -64,7 +68,6 @@
     height: 260px;
     justify-content: center;
     background-color: rgba(144, 0, 255, 0.718);
-    margin-left: 50px;
     box-shadow: 40px 20px 15px rgb(144, 0, 255, 0.779) ;
 }
 
@@ -75,6 +78,5 @@
     height: 260px;
     justify-content: center;
     background-color: rgba(144, 0, 255, 0.678);
-    margin-left: 50px;
     box-shadow: 40px 20px 15px rgb(144, 0, 255, 0.779);
 }
