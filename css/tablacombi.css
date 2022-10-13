@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(210, 231, 238);
+    background-color: rgba(223, 233, 236, 0.906);
 }
 
 .table-style {
@@ -45,5 +45,5 @@ h1 {
 }
 
 .t {
-    background-color: darkgrey;
+    background-color: rgba(77, 77, 77, 0.51);
 }
