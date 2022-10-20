@@ -22,3 +22,20 @@ h1 {
    display: flex;
    justify-content: center;
 }
+body {
+    font-family: 'Overpass', sans-serif;
+    font-weight: normal;
+    font-size: 100%;
+    color: #484e51;
+    
+    margin: 0;
+    background-color: #d0dce2;
+}
+
+.pac {
+    padding: 8px;
+}
+
+.mar {
+    padding: 10px;
+}
