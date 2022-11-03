@@ -1,5 +1,7 @@
-let botonMenuJs = document.getElementById("botonMenu");
 
-botonMenuJs.addEventListener("click",function() {
-    alert("hola mundo, yo soy un boton");
-});
+
+let botonmenu = document.getElementById("botonMenu");
+
+botonmenu.addEventListener("click", function(){
+    alert("Estoy vivo")
+})
