@@ -1,10 +1,12 @@
 let barMenu = document.getElementById("barMenu");
 let mainMenu = document.getElementById("mainMenu");
 
-barMenu.addEventListener("click", function() {
-    if (main_Menu.classlist.contains("main-menu")) {
-        main_Menu.classlist.add ("main-menu-visible");
-        main_Menu.classlist.remove ("main-menu-visible");
+barMenu.addEventListener("click", function(){
+    if(mainMenu.classList.contains("main-menu")){
+        mainMenu.classList.remove("main-menu");
+        mainMenu.classList.add("main_menu_visible");
+    }else{
+        mainMenu.classList.remove("main_menu_visible");
+        mainMenu.classList.add("main-menu");
     }
-    )
-
+})
